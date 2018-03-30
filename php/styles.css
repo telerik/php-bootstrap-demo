@@ -370,3 +370,7 @@ header .container h1.visible-sm {
 #menu > li:nth-child(2) > a:nth-child(1){
     display: none;
 }
+
+#configurator span.k-input{
+    height: auto;
+}
